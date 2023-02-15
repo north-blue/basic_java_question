@@ -2,7 +2,7 @@
 
 #Basic Java Program
 
-#### Check even or not
+#### calculate the sum of first N natural numbers.
 ```
 static int printSum(int N){
         //sum= sum +i
